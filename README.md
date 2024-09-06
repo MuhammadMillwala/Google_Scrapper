@@ -1,1 +1,3 @@
-# Google_Scrapper
+# Google Scrapper
+
+Google product scrapper built on python
